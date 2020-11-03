@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - XHFirstManager (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - XHFirstManager (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  XHFirstManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  XHFirstManager: 972132e18839efd721e058ceb30ed9e3dc007c04
+
+PODFILE CHECKSUM: be846e31480b6dc8e8ff8feebb6e1272005be862
+
+COCOAPODS: 1.9.1

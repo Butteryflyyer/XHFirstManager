@@ -1,0 +1,6 @@
+framework module Pods_XHFirstManager_Example {
+  umbrella header "Pods-XHFirstManager_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

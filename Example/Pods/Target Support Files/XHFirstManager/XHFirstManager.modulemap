@@ -1,0 +1,6 @@
+framework module XHFirstManager {
+  umbrella header "XHFirstManager-umbrella.h"
+
+  export *
+  module * { export * }
+}
